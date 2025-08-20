@@ -1,0 +1,10 @@
+﻿  GameEngine.cpp
+C:\Users\aiden\source\repos\Target\Target\GameEngine\Source\GameEngine.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+C:\Users\aiden\source\repos\Target\Target\Main.cpp(16,9): warning C4477: 'printf' : format string '%llX' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'unsigned __int64 (*)[10]'
+C:\Users\aiden\source\repos\Target\Target\Main.cpp(27,11): warning C4477: 'printf' : format string '%llX' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'void *'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Target.vcxproj -> C:\Users\aiden\source\repos\Target\x64\Release\Target.exe
