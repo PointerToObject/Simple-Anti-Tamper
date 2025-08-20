@@ -1,3 +1,5 @@
+<img width="955" height="223" alt="image" src="https://github.com/user-attachments/assets/b0200f0f-13c3-4b23-9da0-a56621fa8459" />
+
 # Simple Anti-Tamper DLL + Target Process Demo
 
 This repository contains two solutions for experimenting with anti-tamper techniques on Windows x64:
