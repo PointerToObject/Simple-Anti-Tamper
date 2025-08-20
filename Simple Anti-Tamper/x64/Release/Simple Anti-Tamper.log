@@ -1,0 +1,10 @@
+﻿  dllmain.cpp
+  mem.cpp
+C:\Users\aiden\source\repos\Target\Simple Anti-Tamper\mem\Source\mem.cpp(88,70): warning C4244: 'argument': conversion from 'DWORD64' to 'UINT', possible loss of data
+C:\Users\aiden\source\repos\Target\Simple Anti-Tamper\mem\Source\mem.cpp(116,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aiden\source\repos\Target\Simple Anti-Tamper\mem\Source\mem.cpp(120,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 88 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Simple Anti-Tamper.vcxproj -> C:\Users\aiden\source\repos\Target\x64\Release\Simple Anti-Tamper.dll
